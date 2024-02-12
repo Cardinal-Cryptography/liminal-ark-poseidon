@@ -9,7 +9,7 @@ description = "An instantiation of the Poseidon SNARK-friendly hash function."
 authors = ["Cardinal", "Aleph Zero Foundation"]
 edition = "2021"
 homepage = "https://alephzero.org"
-repository = "https://github.com/Cardinal-Cryptography/aleph-node"
+repository = "https://github.com/Cardinal-Cryptography/liminal-ark-poseidon"
 
 [dependencies]
 ark-bls12-381 = { version = "^0.3.0" }
